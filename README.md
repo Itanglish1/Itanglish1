@@ -1,4 +1,6 @@
-I’m **Chris** and I'm having my first steps in coding. FreeCodeCamp, then The Odin Project (neither of them I have yet finished). Started my FULL STACK course with DCI Institute DE!!
+I’m **Chris** (**ItanglishDev**) and I'm studying Full Stack Web Development @ DCI Institute!!
+
+
 - More follow up about me very soon!
 
 
