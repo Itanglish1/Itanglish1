@@ -1,7 +1,9 @@
 ## I’m **Chris** studying Full Stack Web Development @ DCI Institute!!
 
 
-### Some of the tools I have learned:
+### My tools:
+
+
 
 <div>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
@@ -15,6 +17,8 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"   alt="nodejs" width="45" height="45"/>
   </div>        
           
+
+
 
 - More follow up about me very soon!
 
