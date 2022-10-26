@@ -1,4 +1,4 @@
-# I’m **Chris** (**ItanglishDev**) and I'm studying Full Stack Web Development @ DCI Institute!!
+## I’m **Chris** studying Full Stack Web Development @ DCI Institute!!
 
 
 ### Some of the tools I have learned:
