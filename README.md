@@ -1,7 +1,7 @@
-#I’m **Chris** (**ItanglishDev**) and I'm studying Full Stack Web Development @ DCI Institute!!
+# I’m **Chris** (**ItanglishDev**) and I'm studying Full Stack Web Development @ DCI Institute!!
 
 
-###Some of the tools I have learned:
+### Some of the tools I have learned:
 
 <div>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
