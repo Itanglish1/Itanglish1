@@ -16,7 +16,6 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  alt="react" width="45" height="45" />       
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"   alt="nodejs" width="45" height="45"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"   alt="nodejs" width="45" height="45" />
-   
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg"   alt="nodejs" width="45" height="45" />
           
           
